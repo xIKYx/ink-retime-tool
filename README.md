@@ -1,7 +1,7 @@
 # icky-retime-tool
 A YouTube tool to be able to retime videos
 
-This code is a fork of ihavenolife (randomidiot13) for creating this code. I just modified it to add the Mod Message
+This code is a fork of ihavenolife (randomidiot13) retime tool. I just modified it to add the Mod Message
 
 # How to download it
 **You will need to have Python 3.x or above**
