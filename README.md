@@ -6,7 +6,7 @@ This code is a fork of ihavenolife (randomidiot13) for creating this code. I jus
 # How to download it
 **You will need to have Python 3.x or above**
 
-You can download the code here -> (icky-retime-tool)[https://github.com/xIKYx/icky-retime-tool/archive/main.zip]
+You can download the code here -> [icky-retime-tool](https://github.com/xIKYx/icky-retime-tool/archive/main.zip)
 
 After that, add it to your desktop and duble click it, if evrything goes well, it should runn the file and open a small window.
 
