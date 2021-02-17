@@ -24,7 +24,7 @@ After you have done that, you will see the video stats in the top left corner of
 
 Right next to the video resolution, you will see a `@xx` number, the number after the `@` is the framerate. Instert that number into the `Framerate` Text box
 
-After you have done that, go to the first frame and last frame (you can go bettwen frames by using `,` an `.`) and right click on the video again and click `Copy Debug Info` and put that information on the `Start` and `End` Text Box
+After you have done that, go to the first frame and last frame (you can go bettwen frames by using `,` and `.`) and right click on the video again and click `Copy Debug Info` and put that information on the `Start` and `End` Text Box
 
 After you have done all that, you can press `Calculate` and you will get your final time. you can press the `Copy Mod Message to Clipboard` to copy the mod message.
 
