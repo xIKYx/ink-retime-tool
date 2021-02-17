@@ -1,4 +1,4 @@
-# icky-retime-tool
+# INK Retime Tool
 
 A YouTube tool to be able to retime videos
 
